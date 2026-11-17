@@ -1,0 +1,83 @@
+{
+  "coffee": {
+    "label": "Coffee",
+    "molecules": {
+      "furfural": "O=Cc1ccco1",
+      "furfuryl mercaptan": "SCc1ccco1",
+      "guaiacol": "COc1ccccc1O",
+      "4-ethylguaiacol": "CCc1ccc(O)c(OC)c1",
+      "4-vinylguaiacol": "C=Cc1ccc(O)c(OC)c1",
+      "2-methylpyrazine": "Cc1cnccn1",
+      "2,3-pentanedione": "CCC(=O)C(C)=O",
+      "maltol": "CC1=C(O)C(=O)C=CO1",
+      "furfuryl acetate": "CC(=O)OCc1ccco1",
+      "2-acetylpyrrole": "CC(=O)c1ccc[nH]1"
+    }
+  },
+  "vanilla_candle": {
+    "label": "Vanilla candle",
+    "molecules": {
+      "vanillin": "COc1cc(C=O)ccc1O",
+      "ethyl vanillin": "CCOc1cc(C=O)ccc1O",
+      "coumarin": "O=c1ccc2ccccc2o1",
+      "heliotropin": "O=Cc1ccc2OCOc2c1",
+      "benzyl benzoate": "O=C(OCc1ccccc1)c1ccccc1",
+      "gamma-nonalactone": "CCCCCC1CCC(=O)O1",
+      "benzaldehyde": "O=Cc1ccccc1",
+      "benzyl alcohol": "OCc1ccccc1"
+    }
+  },
+  "mint": {
+    "label": "Mint",
+    "molecules": {
+      "menthol": "CC(C)C1CCC(C)CC1O",
+      "menthone": "CC(C)C1CCC(C)CC1=O",
+      "carvone": "CC(=C)C1CC=C(C)C(=O)C1",
+      "1,8-cineole": "CC1(C)OC2CCC1(C)CC2",
+      "menthyl acetate": "CC(=O)OC1CC(C)CCC1C(C)C",
+      "pulegone": "CC1CCC(=C(C)C)C(=O)C1",
+      "limonene": "CC(=C)C1CCC(C)=CC1",
+      "beta-pinene": "CC1(C)C2CCC(=C)C1C2"
+    }
+  },
+  "lemon": {
+    "label": "Lemon",
+    "molecules": {
+      "limonene": "CC(=C)C1CCC(C)=CC1",
+      "citral": "CC(C)=CCCC(C)=CC=O",
+      "linalool": "CC(C)=CCCC(C)(O)C=C",
+      "beta-pinene": "CC1(C)C2CCC(=C)C1C2",
+      "gamma-terpinene": "CC(C)C1=CCC(C)=CC1",
+      "geranyl acetate": "CC(C)=CCCC(C)=CCOC(C)=O",
+      "alpha-terpineol": "CC1=CCC(CC1)C(C)(C)O",
+      "octanal": "CCCCCCCC=O"
+    }
+  },
+  "banana": {
+    "label": "Banana",
+    "molecules": {
+      "isoamyl acetate": "CC(C)CCOC(C)=O",
+      "isoamyl butyrate": "CCCC(=O)OCCC(C)C",
+      "butyl acetate": "CCCCOC(C)=O",
+      "ethyl butyrate": "CCCC(=O)OCC",
+      "isobutyl acetate": "CC(C)COC(C)=O",
+      "hexyl acetate": "CCCCCCOC(C)=O",
+      "isoamyl alcohol": "CC(C)CCO",
+      "eugenol": "C=CCc1ccc(O)c(OC)c1"
+    }
+  },
+  "wood_smoke": {
+    "label": "Wood smoke",
+    "molecules": {
+      "guaiacol": "COc1ccccc1O",
+      "syringol": "COc1cccc(OC)c1O",
+      "4-methylguaiacol": "COc1cc(C)ccc1O",
+      "p-cresol": "Cc1ccc(O)cc1",
+      "phenol": "Oc1ccccc1",
+      "eugenol": "C=CCc1ccc(O)c(OC)c1",
+      "furfural": "O=Cc1ccco1",
+      "acetic acid": "CC(=O)O",
+      "2-methoxy-4-vinylphenol": "C=Cc1ccc(O)c(OC)c1"
+    }
+  }
+}
